@@ -19,7 +19,7 @@ private:
 
         Node *curr = head;
         Node *prev = NULL;
-        Node *next = NULL;
+        are Node *next = NULL;
 
         while (curr != NULL)
         {
